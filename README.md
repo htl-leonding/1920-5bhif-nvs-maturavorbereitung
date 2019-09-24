@@ -46,7 +46,7 @@
 
 ### Android 
 
--[Android Codelabs](https://codelabs.developers.google.com/?cat=Android)
+- [Android Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
 
 ![](images/javaee-is-dead.jpg)
